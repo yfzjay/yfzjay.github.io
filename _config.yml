@@ -26,18 +26,18 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'yuanziang1997@163.com'
-  weixin: '' # your wechat image file path
-  QQ: '' # your QQ image file path
-  weibo: ''
-  instagram: ''
-  twitter: ''
+  #weixin: '' # your wechat image file path
+  #QQ: '' # your QQ image file path
+  #weibo: ''
+  #instagram: ''
+  #twitter: ''
   github: ''
-  Dribbble: ''
-  facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  #Dribbble: ''
+  #facebook: ''
+  #Google: ''
+  #zhihu: ''
+  #juejin: ''
+  #twitch: ''
 
  
 
