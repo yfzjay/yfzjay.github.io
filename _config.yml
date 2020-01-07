@@ -26,9 +26,18 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'yuanziang1997@163.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='772517886'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'https://github.com/yfzjay'
+  weixin: '' # your wechat image file path
+  QQ: '' # your QQ image file path
+  weibo: ''
+  instagram: ''
+  twitter: ''
+  github: ''
+  Dribbble: ''
+  facebook: ''
+  Google: ''
+  zhihu: ''
+  juejin: ''
+  twitch: ''
 
  
 
