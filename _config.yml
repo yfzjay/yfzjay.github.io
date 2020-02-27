@@ -25,13 +25,13 @@ portraits: '/assets/labi.jpg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'yuanziang1997@163.com'
+  #mail: 'yuanziang1997@163.com'
   #weixin: '' # your wechat image file path
   #QQ: '' # your QQ image file path
   #weibo: ''
   #instagram: ''
   #twitter: ''
-  github: ''
+  github: 'https://github.com/yfzjay'
   #Dribbble: ''
   #facebook: ''
   #Google: ''
@@ -70,7 +70,7 @@ disqus_url: '' # https://abc.disqus.com/embed.js
 livere: true
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: true
+Gitment: false
 Gitment_owner: ''  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
